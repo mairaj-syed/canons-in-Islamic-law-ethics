@@ -1,2 +1,2 @@
-# canons-in-Islamic-law
-Explores the use of ML and NLP to identify explicit and implicit canons, maxims, and principles (qawāʿid) in Islamic law
+# canons-in-Islamic-law-ethics
+Explores the use of ML and NLP to identify explicit and implicit canons, maxims, and substantive principles (qawāʿid) in Islamic law
