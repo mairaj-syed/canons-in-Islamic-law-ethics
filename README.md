@@ -7,4 +7,4 @@ For an overview of the motivation behind the semantic similarity and Islamic law
 
 For a presentation and interpretation of the results of the experiment, along with thoughts on the future direction of Islamic law and ML/NLP, see:https://islamiclaw.blog/2020/06/02/an-experiment-in-natural-language-processing-machine-learning-and-islamic-law-part-2/
 
-For a YouTube video walking through the Python Jupyter notebook generated some of the results of the experiment, see: https://www.youtube.com/watch?v=T3UA1jr9O3U
+For a YouTube video walking through the Python Jupyter notebook that generated some of the results of the experiment, see: https://www.youtube.com/watch?v=T3UA1jr9O3U
